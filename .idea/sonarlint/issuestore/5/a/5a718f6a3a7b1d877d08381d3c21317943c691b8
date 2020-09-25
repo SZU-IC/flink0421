@@ -1,0 +1,21 @@
+
+E
+java:S1148d"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÕƒâØË.
+T
+java:S1135V"2Complete the task associated to this TODO comment.(ÜÓ×Éùÿÿÿÿ8²çóØË.
+F
+java:S1604"(Make this anonymous inner class a lambda(Ä¼ò8ÉŞØË.
+T
+java:S1135X"2Complete the task associated to this TODO comment.(¨Œ×ùÿÿÿÿ8ã¶óØË.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+T
+java:S1135D"2Complete the task associated to this TODO comment.(ÆÏ²¤ûÿÿÿÿ8å¿„ØË.
+T
+java:S1135H"2Complete the task associated to this TODO comment.(óş†Ğüÿÿÿÿ8ÉŞØË.
+O
+java:S1135E"2Complete the task associated to this TODO comment.(Õ¾»’8å¿„ØË.
+N
+java:S1948n",Make "triggersTs" transient or serializable.(Èşê©ÿÿÿÿÿ8ÉŞØË.
+€
+java:S1128"^Remove this unused import 'org.apache.flink.streaming.api.functions.windowing.WindowFunction'.(ÅŠÀéÿÿÿÿÿ8ÉŞØË.
+g	java:S101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ìª–‚ûÿÿÿÿ

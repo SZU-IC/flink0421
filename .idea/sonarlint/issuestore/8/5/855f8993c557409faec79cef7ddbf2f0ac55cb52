@@ -1,0 +1,11 @@
+
+E
+java:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ãô‡Ê.
+V
+java:S1128"9Remove this unused import 'javafx.scene.chart.ValueAxis'.(‹„‹ë8ñ¯Œ‡Ê.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É˜˜Şøÿÿÿÿ
+T
+java:S1135&"2Complete the task associated to this TODO comment.(ûµÿƒıÿÿÿÿ8¤´ƒ‡Ê.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼¨ƒùÿÿÿÿ
+N
+java:S1135,"2Complete the task associated to this TODO comment.(İÆïl8í·’‡Ê.

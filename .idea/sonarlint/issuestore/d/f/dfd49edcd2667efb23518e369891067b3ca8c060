@@ -1,0 +1,9 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(½®ìúÿÿÿÿ
+J
+java:S1604 "(Make this anonymous inner class a lambda(Üıƒâüÿÿÿÿ8 ‚ê…Ê.
+U
+java:S1874 "3Remove this use of "SplitStream"; it is deprecated.(Üıƒâüÿÿÿÿ8 ‚ê…Ê.
+O
+java:S1135"2Complete the task associated to this TODO comment.(†îÒİ8Ìÿ»…Ê.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼¨ƒùÿÿÿÿ

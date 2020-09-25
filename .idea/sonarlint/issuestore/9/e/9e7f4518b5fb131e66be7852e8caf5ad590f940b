@@ -1,0 +1,12 @@
+
+T
+java:S1135"2Complete the task associated to this TODO comment.(¶â’¼ùÿÿÿÿ8“ñÐ‰Ê.
+R
+java:S1191
+"5Use classes from the Java API instead of Sun classes.(¶Þ†±8ñÍý‰Ê.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÈüŠÆ8€ÓÏ‰Ê.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÃ±•ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼¨ƒùÿÿÿÿ
+O
+java:S1128
+"2Remove this unused import 'sun.management.Sensor'.(¶Þ†±8ñÍý‰Ê.

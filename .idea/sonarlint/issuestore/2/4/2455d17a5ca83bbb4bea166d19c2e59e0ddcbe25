@@ -1,0 +1,19 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¨Î…Ã
+O
+java:S11358"2Complete the task associated to this TODO comment.(ú†ƒè8¦Î×şË.
+J
+java:S1185_"(Remove this method to simply inherit it.(¸ €ÿÿÿÿÿ8ì¡«ÿË.
+e
+java:S1128"HRemove this unused import 'org.apache.flink.api.common.state.ListState'.(ŠàõĞ8ì¡«ÿË.
+O
+java:S1135:"2Complete the task associated to this TODO comment.(¯Ô›8÷ŞşË.
+L
+java:S3740H"/Provide the parametrized type for this generic.(¾ëø•8ì¡«ÿË.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+O
+java:S1135<"2Complete the task associated to this TODO comment.(¼¶¯8ÿâşË.
+g
+java:S1128"ERemove this unused import 'javax.lang.model.element.VariableElement'.(•ªËÈúÿÿÿÿ8ì¡«ÿË.
+E
+java:S1148A"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8şµ«ÿË.

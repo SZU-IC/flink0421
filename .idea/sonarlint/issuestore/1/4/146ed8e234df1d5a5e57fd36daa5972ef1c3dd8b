@@ -1,0 +1,21 @@
+
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(Ñ©×8œ‰íŠË.
+N
+java:S1135 "2Complete the task associated to this TODO comment.(„Àü8Â¼ÅŠË.
+T
+java:S11356"2Complete the task associated to this TODO comment.(ß«Öùÿÿÿÿ8Š÷ŠË.
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÍÚ«8ö¸ÄŠË.
+I
+java:S1612A",Replace this lambda with a method reference.(¼†Õİ8ÒùôŠË.
+T
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ8ÒùôŠË.
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®ˆı{8ö¸ÄŠË.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+X
+java:S1128"6Remove this unused import 'javax.annotation.Nullable'.(—å¨Íûÿÿÿÿ8œ‰íŠË.
+E
+java:S1148O"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¡õŠË.
+O
+java:S1481@"-Remove this unused "sensorKS" local variable.(Şˆùÿÿÿÿÿ8ÒùôŠË.
+X	java:S125!"<This block of commented-out lines of code should be removed.(‡°Åî8Â¼ÅŠË.

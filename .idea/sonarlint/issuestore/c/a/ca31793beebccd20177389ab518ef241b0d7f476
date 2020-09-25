@@ -1,0 +1,35 @@
+
+P
+java:S1135¤"2Complete the task associated to this TODO comment.(ò„¯‹8†ÛÃúË.
+g	java:S101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Óê“œÿÿÿÿÿ
+T
+java:S1135V"2Complete the task associated to this TODO comment.(ä¯ªàøÿÿÿÿ8†ÛÃúË.
+U
+java:S1135±"2Complete the task associated to this TODO comment.(ÚïËşÿÿÿÿ8†ÛÃúË.
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(ÛŒßùÿÿÿÿ8†ÛÃúË.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+J
+java:S1948³",Make "clickCount" transient or serializable.(ÔŠ›‰8‡¸íóË.
+T
+java:S1135C"2Complete the task associated to this TODO comment.(ªĞÏìüÿÿÿÿ8ÉËÍıË.
+E
+java:S1148k"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8†ÛÃúË.
+M
+java:S5411Ø"*Use the primitive boolean expression here.(çåÛÿÿÿÿÿ8†ÛÃúË.
+Z
+java:S1874½"<Remove this use of "ValueStateDescriptor"; it is deprecated.(÷É¬Î8™äàúË.
+V	java:S106ì"9Replace this use of System.out or System.err by a logger.(Ïù­8†ÛÃúË.
+K
+java:S1604˜"(Make this anonymous inner class a lambda(Ò÷Ã•şÿÿÿÿ8†ÛÃúË.
+|
+java:S1450s"_Remove the "currentThreshold" field and declare it as a local variable in the relevant methods.(£‰½8†ÛÃúË.
+N
+java:S1948µ"+Make "alarmFlag" transient or serializable.(è÷¿Üøÿÿÿÿ8„üîóË.
+D
+java:S1948u"'Make "datas" transient or serializable.(ù•”í8†ÛÃúË.
+Z
+java:S1874¾"<Remove this use of "ValueStateDescriptor"; it is deprecated.(øÜ°ù8³ÜãúË.
+N
+java:S1948v",Make "triggersTs" transient or serializable.(Èşê©ÿÿÿÿÿ8†ÛÃúË.
+H
+java:S1612d",Replace this lambda with a method reference.(ˆÕó 8†ÛÃúË.

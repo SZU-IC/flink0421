@@ -1,0 +1,18 @@
+
+w
+java:S1128"ZRemove this unused import 'com.sun.corba.se.spi.ior.iiop.MaxStreamFormatVersionComponent'.(ÔÑ 8¿‡ôÕË.
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÍÚ«8¿‡ôÕË.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(©ìıÿÿÿÿ
+I
+java:S1612>",Replace this lambda with a method reference.(¼†Õİ8÷Â†ÖË.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+[
+java:S1128">Remove this unused import 'javax.swing.text.AbstractDocument'.(–õ¯8¿‡ôÕË.
+T
+java:S1135+"2Complete the task associated to this TODO comment.(ÛÓ‡îÿÿÿÿÿ8¿‡ôÕË.
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(µƒÜÇÿÿÿÿÿ8÷Â†ÖË.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(ÔÑ 8¿‡ôÕË.
+E
+java:S1148a"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²ˆÖË.

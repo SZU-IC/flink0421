@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼¨ƒùÿÿÿÿ
+E
+java:S1481")Remove this unused "benv" local variable.(¼Úæ8Š÷â¶É.
+K
+java:S1481")Remove this unused "senv" local variable.(ı„ ÿÿÿÿÿ8ø²ä¶É.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ü½Éùúÿÿÿÿ

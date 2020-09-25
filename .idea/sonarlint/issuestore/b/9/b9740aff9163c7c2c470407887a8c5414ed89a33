@@ -1,0 +1,17 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+g	java:S101%"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñê†­ÿÿÿÿÿ
+N
+java:S1612M",Replace this lambda with a method reference.(ÊÑƒÖøÿÿÿÿ8Í¨›×Ë.
+O
+java:S1135p"2Complete the task associated to this TODO comment.(’ÑÁÏ8»ó¾×Ë.
+O
+java:S1135B"2Complete the task associated to this TODO comment.(Ğ‚ç8ûø¼ÖË.
+F
+java:S1604‚"(Make this anonymous inner class a lambda(åô¬û8–•É×Ë.
+M
+java:S1948`"+Make "triggerTs" transient or serializable.(êŒ¯ûÿÿÿÿ8’½¢×Ë.
+H
+java:S1612U",Replace this lambda with a method reference.(ˆÕó 8†àà×Ë.
+I
+java:S1948_"'Make "datas" transient or serializable.(ì¼Àãüÿÿÿÿ8†àà×Ë.

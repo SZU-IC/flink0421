@@ -1,0 +1,13 @@
+
+I
+java:S1612C",Replace this lambda with a method reference.(¼†Õİ8Ş¯Ë.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š•ÚÍ
+M
+java:S1948I"+Make "triggerTs" transient or serializable.(êŒ¯ûÿÿÿÿ8Ş¯Ë.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+E
+java:S1948H"(Make "lastVC" transient or serializable.(¾Ù©8Ã½Š¯Ë.
+F
+java:S1148†"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ş¯Ë.
+^
+java:S1874M"<Remove this use of "ValueStateDescriptor"; it is deprecated.(’—‘üÿÿÿÿ8Ş¯Ë.

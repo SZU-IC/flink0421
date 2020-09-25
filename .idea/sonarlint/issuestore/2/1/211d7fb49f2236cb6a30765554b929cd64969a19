@@ -1,0 +1,19 @@
+
+O
+java:S11357"2Complete the task associated to this TODO comment.(“ûšŞ8å„¯Ë.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+E
+java:S1148H"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8²—©œË.
+I
+java:S16129",Replace this lambda with a method reference.(¼†Õİ8®§œË.
+r
+java:S1128"URemove this unused import 'org.apache.flink.streaming.api.datastream.DataStreamSink'.(¼¨²½8ûÿ¨œË.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Â¨”¿ÿÿÿÿÿ
+g
+java:S1128"ERemove this unused import 'javax.lang.model.element.VariableElement'.(•ªËÈúÿÿÿÿ8®§œË.
+O
+java:S11353"2Complete the task associated to this TODO comment.(ŞÀä8”«œË.
+T
+java:S1135)"2Complete the task associated to this TODO comment.(†¸Ç˜üÿÿÿÿ8Éª—¯Ë.
+T
+java:S11356"2Complete the task associated to this TODO comment.(¯ı½‚ùÿÿÿÿ8°Ïœ¯Ë.

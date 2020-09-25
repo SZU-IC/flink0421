@@ -1,0 +1,7 @@
+
+I
+java:S1612B",Replace this lambda with a method reference.(¼†ÕÝ8ýÂå…Ë.
+O
+java:S1135'"2Complete the task associated to this TODO comment.(Ÿ³ ë8»Ïß…Ë.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç–†Ä

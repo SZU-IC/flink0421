@@ -1,0 +1,14 @@
+
+T
+java:S1135"2Complete the task associated to this TODO comment.(ƒŞ‚³úÿÿÿÿ8 ÔÀƒË.
+I
+java:S1612(",Replace this lambda with a method reference.(¼†Õİ8ë”ÔƒË.
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(µÄƒÏ8ë”ÔƒË.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+s
+java:S1128"VRemove this unused import 'com.sun.javafx.collections.ElementObservableListDecorator'.(µÄƒÏ8ë”ÔƒË.
+E
+java:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8âäÔƒË.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÆØÏ¬
+]	java:S125"<This block of commented-out lines of code should be removed.(Ø‚ªÂıÿÿÿÿ8µÙƒË.

@@ -1,0 +1,13 @@
+
+E
+java:S1148C"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ªÇƒË.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ïºëµ
+N
+java:S1135"2Complete the task associated to this TODO comment.(ÍÚ«8Å±í‚Ë.
+N
+java:S1135("2Complete the task associated to this TODO comment.(²¬êM8¹Ëú‚Ë.
+y
+java:S1128"WRemove this unused import 'org.apache.flink.streaming.api.datastream.DataStreamSource'.(ƒÁ›Óüÿÿÿÿ8ÜÕù‚Ë.
+I
+java:S16122",Replace this lambda with a method reference.(¼†Õİ8Û²ƒË.

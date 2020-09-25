@@ -1,0 +1,13 @@
+
+N
+java:S1948e",Make "triggersTs" transient or serializable.(Èşê©ÿÿÿÿÿ8ÄàñË.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+H
+java:S1612U",Replace this lambda with a method reference.(ˆÕó 8à³åñË.
+g	java:S101!"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÜÙ£“øÿÿÿÿ
+D
+java:S1948d"'Make "datas" transient or serializable.(ù•”í8à³åñË.
+E
+java:S1148]"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8À¡àñË.
+K
+java:S1604„"(Make this anonymous inner class a lambda(ÔÉåğùÿÿÿÿ8ÄàñË.

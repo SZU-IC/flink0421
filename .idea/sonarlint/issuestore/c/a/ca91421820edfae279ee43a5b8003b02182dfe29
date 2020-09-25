@@ -1,0 +1,47 @@
+
+O
+java:S1135p"2Complete the task associated to this TODO comment.(ÀàŠ¦8²¢‡Ì.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ñôµÂ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÂ·‹
+N
+java:S1948L",Make "orderState" transient or serializable.(—şÒÃúÿÿÿÿ8¦¢”Ì.
+T
+java:S1135:"2Complete the task associated to this TODO comment.(â°ˆªùÿÿÿÿ8Ò‡ÅÿË.
+I
+java:S16129",Replace this lambda with a method reference.(›¸ïü8¦¢”Ì.
+T
+java:S1135Z"2Complete the task associated to this TODO comment.(Šã´¶úÿÿÿÿ8²¢‡Ì.
+o
+java:S3776l"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¸â›ã8²¢‡Ì.
+H
+java:S1948N"+Make "timeoutTs" transient or serializable.(¢“È8²¢‡Ì.
+O
+java:S1135q"2Complete the task associated to this TODO comment.(•‘¡Á8²¢‡Ì.
+T
+java:S11357"2Complete the task associated to this TODO comment.(³ò‘Îÿÿÿÿÿ8—´ÀÿË.
+Q
+java:S3740O"/Provide the parametrized type for this generic.(åôƒùÿÿÿÿ8²¢‡Ì.
+X
+java:S1874S"<Remove this use of "ValueStateDescriptor"; it is deprecated.(Î—û8«“•Ì.
+Y
+java:S1874R"<Remove this use of "ValueStateDescriptor"; it is deprecated.(äöĞ“8°ï”Ì.
+O
+java:S1135n"2Complete the task associated to this TODO comment.(¨ğ§©8²¢‡Ì.
+O
+java:S11358"2Complete the task associated to this TODO comment.(×ä°š8äÜÀÿË.
+g
+java:S1128"ERemove this unused import 'javax.lang.model.element.VariableElement'.(•ªËÈúÿÿÿÿ8³Á¾ÿË.
+j
+java:S1192>"HDefine a constant instead of duplicating this literal "timeout" 3 times.(‚İö ıÿÿÿÿ8ƒ‹Ì.
+E
+java:S1148E"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ª¢Ì.
+e
+java:S1128	"HRemove this unused import 'org.apache.flink.streaming.api.TimerService'.(‘’Áº8²¢‡Ì.
+G
+java:S1948K"*Make "payState" transient or serializable.(ëçÓÓ8¦¢”Ì.
+T
+java:S1135M"2Complete the task associated to this TODO comment.(ÇÿÀ¿úÿÿÿÿ8²¢‡Ì.
+O
+java:S1135Y"2Complete the task associated to this TODO comment.(†ÖÈÙ8²¢‡Ì.
+^
+java:S1874T"<Remove this use of "ValueStateDescriptor"; it is deprecated.(¹¾Îëúÿÿÿÿ8¬€¡Ì.
